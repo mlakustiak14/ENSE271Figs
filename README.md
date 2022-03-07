@@ -1,2 +1,2 @@
 # ENSE271Figs
-GitHub for the Ense 271 RFB Hamper Project
+GitHub for the RFB Hamper Project for Figs
